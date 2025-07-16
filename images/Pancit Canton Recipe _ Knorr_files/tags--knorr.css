@@ -1,0 +1,3 @@
+/* Version=4.12.0,Timestamp=2025-06-26T09:20:19.782Z */
+
+.tags{padding:0 1rem 2.5rem}.tags .cmp-tags__wrapper ul{-ms-flex-wrap:wrap;flex-wrap:wrap;gap:1rem;list-style:none;margin:1.5rem 0 0;padding:0}.tags .cmp-tags__wrapper ul,.tags .cmp-tags__wrapper ul .cmp-tags-list__item{display:-webkit-box;display:-ms-flexbox;display:flex}.tags .cmp-tags__wrapper ul a{background-color:transparent;border:1px solid;border-radius:5px;color:#007a33;padding:.6rem 1.5rem;text-decoration:none;-webkit-transition:color .5s,background-color .5s;transition:color .5s,background-color .5s}.tags .cmp-tags__wrapper ul a:hover{background-color:#007a33;color:#fff}.tags.width-1200 .cmp-tags{margin:auto;max-width:1200px}
